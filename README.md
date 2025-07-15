@@ -11,7 +11,7 @@ I used the `turtle` module to draw a traditional Javanese house — **Joglo** �
 - Now uploaded from laptop
 
 ## 🖼️ Preview
-(Screenshot coming soon)
+![Joglo Sketch](joglo_preview.png)
 
 ## 🙏 Thanks
 Big thanks to the Korean volunteer team for the cultural exchange and for introducing me to programming with Python.
