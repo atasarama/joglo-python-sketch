@@ -1,6 +1,3 @@
-# joglo-python-sketch
-My first Python project using turtle to draw a Joglo house as part of a cultural workshop with Korean volunteers (WFK - Jeju National University)
-
 # 🏡 Joglo Sketch using Python Turtle
 
 This is my first Python project, created during a volunteer cultural exchange workshop with Korean students from **Jeju National University** under **WFK (World Friends Korea)** in August 2023.
