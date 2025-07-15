@@ -1,4 +1,6 @@
 import turtle
+screen = turtle.Screen()
+screen.setup(width=1000, height=800)  # atur ukuran layar turtle
 t=turtle.Turtle()
 t.fd(100)
 t.lt(90)
